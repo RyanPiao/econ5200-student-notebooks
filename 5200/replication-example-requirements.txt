@@ -1,0 +1,5 @@
+# Python 3.12, the versions this example was run with (Colab's, Nov 2026)
+pandas==2.2.2
+numpy==2.0.2
+statsmodels==0.14.6
+matplotlib==3.11.2
